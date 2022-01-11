@@ -1,0 +1,1 @@
+const hamburger=document.getElementById("hamburger"),nav=document.getElementById("nav");function toggleShow(){nav.classList.toggle("show")}hamburger.addEventListener("click",toggleShow);
